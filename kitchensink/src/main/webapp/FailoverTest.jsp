@@ -21,6 +21,9 @@ by incrementing a counter each time a user accesses a page.
 
 <p>
 
+
+
+
 <%!
   private int totalHits = 0;
 %>
